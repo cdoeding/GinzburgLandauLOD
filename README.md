@@ -16,6 +16,6 @@ Results are calculated using the following procedures:
     - save results to file groundstate.mat (optional: change filename)
     - plot results by running plot_groundstate.m
    
-3. Compute FEM best fit:  
+3. Compute FEM best approximation:  
     - First run and save the desired FEM solution (step 2)
     - Run main_bestapproximation.m
